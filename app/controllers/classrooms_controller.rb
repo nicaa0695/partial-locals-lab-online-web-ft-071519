@@ -8,3 +8,4 @@ class ClassroomsController < ApplicationController
     @classrooms = Classroom.all
   end
 end
+end
